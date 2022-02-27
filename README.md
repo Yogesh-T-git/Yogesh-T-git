@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I code for FUN in any language including   
+| Python | C/C++ | JAVA | Kotlin |
+ | :---: | :---: | :---: | :---: |
