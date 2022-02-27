@@ -1,4 +1,4 @@
-### Hii 👋, I'm Yogesh
+### Hi there 👋, I'm Yogesh
 
 <!--
 **Yogesh-T-git/Yogesh-T-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
