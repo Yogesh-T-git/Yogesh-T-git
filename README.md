@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I code for FUN in any language including   <h1 align="center">Hi 👋, I'm Yogesh</h1>
+I code for FUN in any language including
 
 | JAVA | C | Pyton | Dart |
  | :---: | :---: | :---: | :---: |
