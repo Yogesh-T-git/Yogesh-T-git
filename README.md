@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 I code for FUN in any language including   
-| Python | C/C++ | JAVA | Kotlin |
+| JAVA | C | Pyton | Dart |
  | :---: | :---: | :---: | :---: |
