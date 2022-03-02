@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I code for FUN in any language including
 
-| JAVA |  JavaScript  | C | Python |
+| Java |  JavaScript  | C | Python |
  | :---: | :---: | :---: | :---: |
  
  ### Technologies & Frameworks I have worked with : 
