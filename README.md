@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ ![Yogesh-T-git](https://github-readme-stats.vercel.app/api?username=Yogesh-T-git&show_icons=true&count_private=true&&theme=onedark)
 -->
 
 
@@ -34,8 +35,11 @@ I code for FUN in any language including
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"></code>
 
+### Stats
 
-
-
+<p align="left">
  
- ![Yogesh-T-git](https://github-readme-stats.vercel.app/api?username=Yogesh-T-git&show_icons=true&count_private=true&&theme=onedark)
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yogesh-T-git&show_icons=true&count_private=true&&theme=onedark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaansjain06&theme=onedark" />
+</p>
+ 
