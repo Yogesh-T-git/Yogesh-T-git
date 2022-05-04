@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I code for FUN in any language including
 
-| Java |  Python  | JavaScript | C |
+| Java | JavaScript  | Python | C |
  | :---: | :---: | :---: | :---: |
  
  ### Technologies & Frameworks I have worked with : 
